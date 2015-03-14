@@ -33,7 +33,7 @@
             %>
             <tr>
                 <td>
-                 <image src="<%=((partidos)Listado.get(i)).getIcono() %>">
+                    <image src="<%=((partidos)Listado.get(i)).getIcono() %>"></image>
                 </td>
                 <td><%=((partidos)Listado.get(i)).getPartido() %></td>
                 <td><%=((partidos)Listado.get(i)).getNumVotos() %></td>
