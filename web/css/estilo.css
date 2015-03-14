@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-mar-2015, 23:37:44
+    Author     : Guillermo Gonzalez Maroto
+*/
+
+h1{
+    font-family: verdana;
+    font-style: italic;
+}
+
+#contenido{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: gray;
+}

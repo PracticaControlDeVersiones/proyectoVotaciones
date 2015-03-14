@@ -6,18 +6,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <style type="text/css">
-            h1{
-                font-family: verdana;
-                font-style: italic;
-            }
-            #contenido{
-                width: 400px;
-                height: 400px;
-                margin: 0 auto;
-                background-color: gray;
-            }
-        </style>
+        <link type="text/css" href="css/estilo.css" rel="stylesheet">
         <title>Votaciones 2015</title>
     </head>
     <body>
